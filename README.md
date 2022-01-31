@@ -9,3 +9,4 @@ A clear history button is added to clear the cities from the search log. If you 
 #Screenshot
 ![When you open the app it look like this](sc1.png) 
 ![When you enter the citeis it will show the forecast like this](sc2.png)
+ The link for the live application is: https://abilalu.github.io/WeatherDashboard/
